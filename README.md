@@ -43,28 +43,12 @@ This project utilizes a **Star Schema** architecture to ensure performance and a
 To ensure this dashboard delivers real business value rather than just displaying raw numbers, I applied a structured Design Thinking approach. This helped bridge the gap between technical data modeling and the actual needs of the business stakeholders (CFOs & Finance Managers).
 
 ### 1️⃣ Empathize (5W1H Problem Statement)
-| Dimension | Question | Core Finding |
-| :--- | :--- | :--- |
-| **WHO** | Who is experiencing the problem? | CFOs, Finance Managers, and Business Unit Directors. |
-| **WHAT** | What is the exact issue? | Inability to trace the exact flow of revenue down to net profit and identify root causes of profit leaks (COGS/Opex). |
-| **WHY** | Why does it matter? | To stop bleeding cash on unprofitable segments and optimize operational costs to protect the overall margin. |
-| **WHEN / WHERE** | When do they need this data? | During monthly/quarterly financial reviews and strategic budget planning sessions. |
-| **HOW** | How will this dashboard help? | By providing a centralized, interactive view of Profit Bridges and detailed cost breakdowns to enable fast decisions. |
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d7d20a10-c2cf-494f-a853-0ccb9a18a6e5" />
+
 
 ### 2️⃣ Define Point of View (POV)
-* **North Star Metrics:** **Net Profit** & **Net Profit Margin %**.
-* **Key Analytical Perspectives:**
-    * **Macro (Profit Bridge):** Tracking how Gross Revenue is consumed by COGS and Opex to result in Net Profit.
-    * **Segment Level (Business Lines):** Pinpointing which business units are generating profit versus bleeding cash.
-    * **Operational Level (Expense Subgroups):** Monitoring granular cost drivers (Labor, Materials, Packaging) over time.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/56ba9645-1c62-45c0-b2b2-46bf5b5a9ef5" />
 
-### 3️⃣ Ideate (Dashboard Information Architecture)
-To avoid overwhelming the users, I structured the dashboard into three distinct pages based on the level of detail required for decision-making:
-
-| Information Tier | Page 1: Overview | Page 2: Analysis | Page 3: Operational Details |
-| :--- | :--- | :--- | :--- |
-| **Critical Info (Top KPIs & Core Visuals)** | Total Revenue, Total Expense, Net Profit, NP Margin % | Profit Decomposition Tree (Net Profit ➔ Business Line ➔ Category ➔ Qtr ➔ Month) | Dynamic Financial Performance Matrix (with Margin Status Indicators) |
-| **Important Info (Trends & Breakdowns)** | Revenue to Net Profit Bridge (Waterfall), Revenue by Category, Qtr/Month Trends | Revenue & Expense by Business Line, Business Unit Performance | Total Expense MoM % by Subgroup, Total Expense by Month and Expense Subgroup |
 
 ---
 
