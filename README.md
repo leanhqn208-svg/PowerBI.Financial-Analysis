@@ -1,4 +1,4 @@
-# Financial-Analysis-PBI
+# [Power BI] Financial_Analysis
 
 ## 📑 Table of Contents
 1. [📌 Overview](#-overview)  
