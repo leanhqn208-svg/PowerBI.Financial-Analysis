@@ -81,11 +81,11 @@ To ensure this dashboard delivers real business value rather than just displayin
 ## 🔎 Final Conclusion & Recommendations
 
 📌 **Key Takeaways:**
-* **Heavy Cost Burden:** Top-line revenue is strong ($17.6M), but operational costs (COGS and Opex) consume over 69% of it. The company maintains a 24.6% profit margin, but it is heavily pressured by these expenses.
-* **Winner vs. Loser Segment:** The "Sportswear" division is the ultimate profit engine ($2.74M Net Profit), while the "Nutrition" segment is actively bleeding cash (-$0.71M loss).
-* **Top Expense Driver:** The cost structure analysis proves that Labor is the highest operational expense.
+* **High Revenue vs. Heavy Cost Burden:** Total Revenue reached a strong **$17.6M** with a **24.6% net profit margin**. However, profitability is heavily suppressed by operational costs, with COGS (~$7M) and Opex (~$6M) aggressively consuming over **69% of top-line earnings**.
+* **Extreme Portfolio Polarization:** Performance is split between the highly lucrative Sportswear division—the ultimate profit engine delivering **$2.74M in net profit** and the failing **Nutrition** segment, which is actively bleeding corporate cash with a severe **-$0.71M net loss**.
+* **Concentrated Cost Driver (Labor):** The cost structure analysis explicitly identifies **Labor costs** as the single largest expense subgroup. It disproportionately outweighs all other operational costs and acts as the primary margin eroder across all business units.
 
 🚀 **Key Actions:**
-* **Stop the Bleed:** Conduct a thorough financial audit on the "Nutrition" division. If costs cannot be optimized, pause this segment to protect the total company profit.
-* **Focus on Stars:** Reallocate capital and strategic focus toward the highly efficient "Sportswear" line to maximize the overall Return on Investment.
-* **Control Key Costs:** Implement strict monthly budget caps and ROI tracking specifically for Labor to prevent further margin erosion.
+* **Stop the Nutrition Bleed:** Execute an immediate financial audit on the Nutrition division to pinpoint the root causes of the **-$0.71M loss**. If margins cannot be stabilized via aggressive cost-cutting within the next quarter, pause or divest the segment to safeguard total corporate profit.
+* **Double Down on Sportswear:** Reallocate capital, marketing budgets, and operational resources away from underperforming units and funnel them directly into scaling the highly efficient Sportswear line to maximize ROI.
+* **Cap and Control Labor Costs:** Implement strict monthly budget caps, headcount freezes, or productivity-linked ROI tracking specifically targeting Labor expenses to prevent further margin erosion.
